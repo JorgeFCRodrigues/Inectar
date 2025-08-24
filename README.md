@@ -41,8 +41,8 @@ entre execuções do programa.
 1.  Clone o repositório:
 
     ``` bash
-    git clone https://github.com/seu-usuario/nome-do-repo.git
-    cd nome-do-repo
+    git clone https://github.com/JorgeFCRodrigues/Inectar.git
+    cd Inectar
     ```
 
 2.  Execute o programa:
