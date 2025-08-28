@@ -43,6 +43,7 @@ entre execuções do programa.
     ``` bash
     git clone https://github.com/JorgeFCRodrigues/Inectar.git
     cd Inectar
+    cd app
     ```
 
 2.  Execute o programa:
